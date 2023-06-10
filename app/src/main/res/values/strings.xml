@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GoogleMapsDemo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="terrain">terrain</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">hybrid</string>
+    <string name="normal">normal</string>
+    <string name="none">none</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu">Menu</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="sign_up">Sign up</string>
+    <string name="HD">TODO</string>
+    <string name="register">REGISTER</string>
+    <string name="todHD">TODO</string>
+    <string name="or_sign_up_with">or sign up with</string>
+    <string name="re_password">Re-Password</string>
+</resources>
