@@ -36,4 +36,3 @@ Akhil Aloshious
 
 James Fothergill
 
-See wiki for details
