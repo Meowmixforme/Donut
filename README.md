@@ -24,5 +24,16 @@ Full App Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NjhlovYsW6w/0.jpg)](https://youtu.be/NjhlovYsW6w)
 
 
+Team
+
+Kelly Baker
+
+Misbah Ayan
+
+Manish Bishwokarma
+
+Akhil Aloshious
+
+James Fothergill
 
 See wiki for details
