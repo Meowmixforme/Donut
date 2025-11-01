@@ -1,4 +1,4 @@
-Second year university Agile Developer Project for a Food Bank Kotlin based Android App. As team leader I created the menus, payment gateway and map. My teammates did the rest
+Second year university Agile Developer Project for a Food Bank Kotlin based Android App. As team leader I created the menus, payment gateway and map. My teammates created the login page.
 
 
 Click the Images to view YouTube videos
