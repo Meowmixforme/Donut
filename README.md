@@ -5,23 +5,23 @@ Click the Images to view YouTube videos
 
 Map Information
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pdR-RzYS5ss/0.jpg)](https://youtu.be/pdR-RzYS5ss)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wDDYpbPHOyI/0.jpg)](https://youtu.be/wDDYpbPHOyI)
 
 Map Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZmdO9KfPiw/0.jpg)](https://youtu.be/DZmdO9KfPiw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5c9wGqBD31U/0.jpg)](https://youtu.be/5c9wGqBD31U)
 
 Payment Gateway Information
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jgAthHohjMU/0.jpg)](https://youtu.be/jgAthHohjMU)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3eaU52rDfSQ/0.jpg)](https://youtu.be/3eaU52rDfSQ)
 
 Payment Gateway Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DZmdO9KfPiw/0.jpg)](https://youtu.be/DZmdO9KfPiw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8KMpqn2jNFY/0.jpg)](https://youtu.be/8KMpqn2jNFY) 
 
 Full App Demo
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NjhlovYsW6w/0.jpg)](https://youtu.be/NjhlovYsW6w)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5c9wGqBD31U/0.jpg)](https://youtu.be/5c9wGqBD31U)
 
 
 Team
@@ -34,5 +34,5 @@ Manish Bishwokarma
 
 Akhil Aloshious
 
-James Fothergill
+James Fothergill (Team Leader)
 
