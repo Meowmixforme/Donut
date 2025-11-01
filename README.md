@@ -34,5 +34,5 @@ Manish Bishwokarma
 
 Akhil Aloshious
 
-James Fothergill (Team Leader)
+James Fothergill
 
